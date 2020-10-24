@@ -1,0 +1,7 @@
+https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
+https://stackabuse.com/recursive-model-relationships-in-django/
+https://realpython.com/python-async-features/
+
+https://stackoverflow.com/questions/50309827/django-recursive-model
+https://django.readthedocs.io/en/stable/ref/models/fields.html#recursive-relationships
+https://medium.com/@tnesztler/recursive-queries-as-querysets-for-parent-child-relationships-self-manytomany-in-django-671696dfe47

@@ -1,0 +1,16 @@
+#Pregunta 3:
+#Que es INDEX (indice) en base de datos, indicar beneficios y desventajas
+
+Index o Indice, es un tipo de dato unico dentro de una tabla 
+que esta dentro de una columna la cual se encarga de los datos de una fila para poder
+realizar las operaciones mucho mas rapida de datos ordenados.
+
+Beneficios: 
+Los beneficios que podria tener el index son:
+    -Operaciones rapidas: Delete, update, insert
+    -Busqueda rapida de algun tipo de dato en una tabla
+    -Facilita la union de tablas y datos mediante el indice
+
+Desventajas:
+    -En cierta cantidad de datos (muchas tablas) al buscar por indice demoraria en las busquedas
+    -Lentitud para realizar consultas en tablas de muchos datos
