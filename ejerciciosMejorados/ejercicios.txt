@@ -9,7 +9,7 @@ Pregunta 3:
 Que es INDEX (indice) en base de datos, indicar beneficios y desventajas
 
 Pregunta 4:
-Hacer un API REST que tenga la funcion de listar las carpetas y archivos y ordenar por tamaño o fecha
+CARPETA 4
 
 Pregunta 5:
 Escribir una funcion sum() y una función multip() que sumen y multipliquen respectivamente todos los números de una lista.
@@ -31,10 +31,6 @@ Recordar que la serie fibonacci inicia en uno, es decir que fibonacci(1) = 1, ad
 el fibonacci(3) = fibonacci(2) + fibonacci(1)
 
 Nota: Implementarlo de modo iterativo.
-
-###################################
-RESULTADOS DENTRO DE LA CARPETA "EJERCICIOSMEJORADOS" LOS DOS ULTIMOS EJERCICIOS 8 Y 9
-
 
 ########################################################################################################
 
@@ -71,4 +67,3 @@ RESULTADOS DENTRO DE LA CARPETA "EJERCICIOSMEJORADOS" LOS DOS ULTIMOS EJERCICIOS
 	url: hppt://127.0.0.1:8000/usuarios/
 
 5: dentro del panel del marco rest pueden realizarse las operaciones crud solicitados de creacion de usuario
-

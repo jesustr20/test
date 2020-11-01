@@ -1,0 +1,11 @@
+#Pregunta 9:  Hacer un servicio web que haga un CRUD(create, read, update, delete), 
+#donde puedas crear, leer, actualizar y borrar Usuarios
+
+1: crear el entorno virtual "python -m venv "nombre del entorno virtual"
+2: instalar los modulos que estan en el archivo "requirements.txt" usando: pip install -r requirements.txt
+3: iniciar la aplicacion "python manage.py runserver"
+4: abrir el enlace en un explorador o usando Postman "http://127.0.0.1:8000/" agregandole "usuarios"
+
+	url: hppt://127.0.0.1:8000/usuarios/
+
+5: dentro del panel del marco rest pueden realizarse las operaciones crud solicitados de creacion de usuario

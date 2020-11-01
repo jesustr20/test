@@ -1,0 +1,17 @@
+#Pregunta 8: 
+#Hacer un servicio API Rest en python usando Django y Django Rest 
+#Framework que devuelva la hora actual en formato ISO.
+#Ejemplo:
+#{
+#    "hora_actual": "2017-05-23T16:54:00Z"
+#}
+
+
+1: crear el entorno virtual "python -m venv "nombre del entorno virtual"
+2: instalar los modulos que estan en el archivo "requirements.txt" usando: pip install -r requirements.txt
+3: iniciar la aplicacion "python manage.py runserver"
+4: abrir el enlace en un explorador o usando Postman "http://127.0.0.1:8000/" agregandole "time/
+
+	url: hppt://127.0.0.1:8000/time/
+
+5: mostrara el resultado en formato json, mostrando la hora actual en formato ISO
